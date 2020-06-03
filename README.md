@@ -1,2 +1,2 @@
-Bot de discord en español
+Bot de discord.js en español
 
