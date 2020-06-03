@@ -1,2 +1,2 @@
-"# ineptobot" 
-"# ineptobot" 
+Bot de discord en español
+
