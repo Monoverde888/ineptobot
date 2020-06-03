@@ -1,0 +1,6 @@
+##Gitignore de prueba
+**/node_modules
+*.json
+!package.json
+*.bat
+config.js
