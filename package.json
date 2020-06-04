@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Monoverde888/cjbot"
+    "url": "git+https://github.com/Monoverde888/ineptobot",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   },
   "keywords": [
     "bot"
@@ -16,9 +17,9 @@
   "author": "Monoverde#8888",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/Monoverde888/cjbot/issues"
+    "url": "https://github.com/Monoverde888/ineptobot/issues"
   },
-  "homepage": "https://github.com/Monoverde888/cjbot#readme",
+  "homepage": "https://github.com/Monoverde888/ineptobot#readme",
   "dependencies": {
     "discord-embed-maker": "^3.0.8",
     "discord.js": "^12.2.0",

@@ -1,5 +1,5 @@
-module.exports = (client, message, args) => { 
-    message.channel.send("comando"); 
+const Discord = require ("discord.js")
+module.exports = (client, message, args) => {  
 const embed1 = new Discord.MessageEmbed()
     .setTitle('titulo')
     .setThumbnail(message.author.displayAvatarURL())
