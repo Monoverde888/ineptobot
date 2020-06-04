@@ -5,7 +5,7 @@ Bot de discord.js v12 en español
 Si necesitas ayuda con el bot entra a este servidor
 
 
-![Discord Banner 2](https://discordapp.com/api/guilds/715708045560119297/widget.png?style=banner2)
+<iframe src="https://canary.discordapp.com/widget?id=715708045560119297&amp;theme=dark" allowtransparency="true" width="350" height="500" frameborder="0"></iframe>
 
 
 Si quieres tenerlo tienes que crear un archivo llamado config.js y poner esto:
