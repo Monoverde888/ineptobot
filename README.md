@@ -1,4 +1,6 @@
 Bot de discord.js v12 en español
+
+
 Si quieres tenerlo tienes que crear un archivo llamado config.js y poner esto:
 ```js
 // No quites las comillas al principio y fin de token y prefix
