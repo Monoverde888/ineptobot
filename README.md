@@ -1,9 +1,25 @@
 Bot de discord.js v12 en español
+Si quieres tenerlo tienes que crear un archivo llamado config.js y poner esto:
+```js
+// No quites las comillas al principio y fin de token y prefix
+let config = {
+    token: "TOKEN", // Reemplaze esto con el token de tu de bot.
+    prefix: "prefijo", // El prefix de su bot para indentificar sus comandos.
+  
+  }
+  
+  // Aqui exportamos el objeto config:
+  module.exports = config;
+  ```
+  
+  
+
 
 
 [![Run on Repl.it](https://repl.it/badge/github/Monoverde888/ineptobot)](https://repl.it/github/Monoverde888/ineptobot)
 
+
+
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Monoverde888/ineptobot)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Monoverde888/ineptobot&template=https://github.com/Monoverde888/ineptobot/tree/master)
 
