@@ -1,4 +1,9 @@
+![Discord Shield](https://discordapp.com/api/guilds/715708045560119297/widget.png?style=shield)
+
 Bot de discord.js v12 en español
+
+Si necesitas ayuda con el bot entra a este servidor
+![Discord Banner 2](https://discordapp.com/api/guilds/715708045560119297/widget.png?style=banner2)
 
 
 Si quieres tenerlo tienes que crear un archivo llamado config.js y poner esto:
