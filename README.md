@@ -1,11 +1,12 @@
-![Discord Shield](https://discordapp.com/api/guilds/715708045560119297/widget.png?style=shield)
+[![Discord Shield](https://discordapp.com/api/guilds/715708045560119297/widget.png?style=shield)](https://discord.gg/5Zj7Kak)
+
 
 Bot de discord.js v12 en español
 
-Si necesitas ayuda con el bot entra a este servidor
+Si necesitas ayuda con el bot entra a este servidor de discord
 
 
-<iframe src="https://canary.discordapp.com/widget?id=715708045560119297&amp;theme=dark" allowtransparency="true" width="350" height="500" frameborder="0"></iframe>
+[![Discord Banner 2](https://discordapp.com/api/guilds/715708045560119297/widget.png?style=banner2)](https://discord.gg/5Zj7Kak)
 
 
 Si quieres tenerlo tienes que crear un archivo llamado config.js y poner esto:
@@ -30,5 +31,6 @@ let config = {
 
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Monoverde888/ineptobot)
+
 
 
