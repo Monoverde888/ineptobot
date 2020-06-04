@@ -3,6 +3,8 @@
 Bot de discord.js v12 en español
 
 Si necesitas ayuda con el bot entra a este servidor
+
+
 ![Discord Banner 2](https://discordapp.com/api/guilds/715708045560119297/widget.png?style=banner2)
 
 
