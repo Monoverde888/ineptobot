@@ -31,6 +31,8 @@ let config = {
 [![Run on Repl.it](https://repl.it/badge/github/Monoverde888/ineptobot)](https://repl.it/github/Monoverde888/ineptobot)
 
 
+Nota sobre estos dos widgets: No los he probado todavia, si no sirven crea un problema y tratare de arreglarlos
+
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Monoverde888/ineptobot)
 
