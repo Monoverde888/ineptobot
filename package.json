@@ -9,7 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Monoverde888/ineptobot",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com/"
+    }
   },
   "keywords": [
     "bot"
@@ -21,13 +23,9 @@
   },
   "homepage": "https://github.com/Monoverde888/ineptobot#readme",
   "dependencies": {
-    "discord-embed-maker": "^3.0.8",
     "discord.js": "^12.2.0",
-    "dotenv": "^8.2.0",
-    "imdb-api": "^4.0.3",
     "megadb": "^3.4.0",
     "npm-check": "^5.9.2",
-    "npm-check-updates": "^6.0.1",
-    "weez": "^1.6.0"
+    "npm-check-updates": "^6.0.1"
   }
 }
