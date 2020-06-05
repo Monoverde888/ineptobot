@@ -1,6 +1,4 @@
 const Discord = require('discord.js');
-const imdb = require("imdb-api"); 
-const embed = require('discord-embed-maker');
 const client = new Discord.Client();
 // El modulo fs se utiliza para leer los archivos y carpetas de un directorio:
 let { readdirSync } = require('fs'); 
