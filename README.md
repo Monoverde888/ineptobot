@@ -1,4 +1,4 @@
-[![Discord Shield](https://discordapp.com/api/guilds/715708045560119297/widget.png?style=shield)](https://discord.gg/5Zj7Kak)   [![Total alerts](https://img.shields.io/lgtm/alerts/g/Monoverde888/ineptobot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Monoverde888/ineptobot/alerts/)
+[![Discord Shield](https://discordapp.com/api/guilds/715708045560119297/widget.png?style=shield)](https://discord.gg/XvW9vaZ)   [![Total alerts](https://img.shields.io/lgtm/alerts/g/Monoverde888/ineptobot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Monoverde888/ineptobot/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Monoverde888/ineptobot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Monoverde888/ineptobot/context:javascript)
 
 
@@ -8,7 +8,7 @@ Bot de discord.js v12 en español
 Si necesitas ayuda con el bot entra a este servidor de discord
 
 
-[![Discord Banner 2](https://discordapp.com/api/guilds/715708045560119297/widget.png?style=banner2)](https://discord.gg/5Zj7Kak)
+[![Discord Banner 2](https://discordapp.com/api/guilds/715708045560119297/widget.png?style=banner2)](https://discord.gg/XvW9vaZ)
 
 
 Si quieres tenerlo tienes que crear un archivo llamado config.js y poner esto:
