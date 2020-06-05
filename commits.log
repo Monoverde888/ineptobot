@@ -1,0 +1,253 @@
+[33mcommit c14c30460dccc73be1c8af21c458757b2dc1f0ab[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mcreate[m[33m)[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Fri Jun 5 14:01:02 2020 -0400
+
+            modified:   .gitignore
+
+[33mcommit 01af7f5b5162489b9f8937f11459c9ab30e61741[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Fri Jun 5 13:59:17 2020 -0400
+
+    make it better
+
+[33mcommit dbcd56c38a01fc6ab4a462cca244cd0439c7431b[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Fri Jun 5 13:53:59 2020 -0400
+
+    config.js
+
+[33mcommit 5cd08e5508d339ea23cb08fc0eec80f705536f27[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Fri Jun 5 13:44:35 2020 -0400
+
+            modified:   package.json
+
+[33mcommit 9cf8c13b0badbbeaf48f4860f914da16083deab8[m
+Merge: da41d06 7933c49
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Fri Jun 5 13:43:17 2020 -0400
+
+    Merge branch 'add-license-1'
+
+[33mcommit 7933c4925389604987cef49c1641fde4efbafc71[m[33m ([m[1;31morigin/add-license-1[m[33m, [m[1;32madd-license-1[m[33m)[m
+Author: Monoverde888 <minecraftersov@gmail.com>
+Date:   Fri Jun 5 13:36:18 2020 -0400
+
+    Añadir licencia
+
+[33mcommit da41d06ac59a40cafbfc278473620d70e248c86c[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Fri Jun 5 13:15:55 2020 -0400
+
+    comando userinfo mejorado
+
+[33mcommit 8e0d647b04f1053e1e0962be7f7c1320c0281d5a[m
+Author: Monoverde888 <minecraftersov@gmail.com>
+Date:   Thu Jun 4 21:38:58 2020 -0400
+
+    Cambiadas invites de discord
+
+[33mcommit bcf37c736f3f18c80dd8c0c92160acbc34e63206[m[33m ([m[1;33mtag: verify[m[33m)[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Thu Jun 4 21:28:47 2020 -0400
+
+    config.js quitado
+
+[33mcommit e53439167eb956f3f3401651749cb2060b54aa05[m
+Author: Monoverde888 <minecraftersov@gmail.com>
+Date:   Thu Jun 4 21:15:15 2020 -0400
+
+    Create config.js
+
+[33mcommit 53af8a3e21431beb7e5be0af510a3fe8877d8884[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Thu Jun 4 20:23:13 2020 -0400
+
+    Errores y variables sin usar removidos
+
+[33mcommit 6108c9c8f0df6dc97865ae91d4e37ad42fa0f1dd[m
+Author: Monoverde888 <minecraftersov@gmail.com>
+Date:   Thu Jun 4 20:17:56 2020 -0400
+
+    Update README.md
+
+[33mcommit 60f2fdfca7c20e9caabd2939ce79a6f84a4cd881[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 20:05:40 2020 -0400
+
+    Añadida integracion con lgtm
+
+[33mcommit 4488e5da0fbd6d33ffb4f9270275d57428f2f795[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Thu Jun 4 19:35:40 2020 -0400
+
+    mejoras
+
+[33mcommit db396f4df192b02add909bf2ec976fdba1ec13c0[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 19:12:16 2020 -0400
+
+    Update README.md
+
+[33mcommit c1e03e6a470ed335e10206c5ce057e93e0b61207[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 19:03:19 2020 -0400
+
+    Update README.md
+
+[33mcommit d548fd3664e10413896ff439e28bd3190835a5aa[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 19:01:26 2020 -0400
+
+    Update README.md
+
+[33mcommit a87f9f965821d153ed1fe73a544a9501497fca98[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 19:00:51 2020 -0400
+
+    Readme actualizado
+    
+    Readme actualizado con informacion de como hostear el bot y como conseguir soporte
+
+[33mcommit 27c6f88bce5bfcb208d981ed7c7409b6bab9b21e[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 18:39:45 2020 -0400
+
+    Update README.md
+
+[33mcommit 485152555c9ba7df11d02d7fabb9353e52305373[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 18:38:47 2020 -0400
+
+    Readme mejorado
+
+[33mcommit d9a4ffc48e4163a7202169f99e6de55eaf26b79f[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Thu Jun 4 17:52:31 2020 -0400
+
+    Comando help con embed en trabajo
+
+[33mcommit 84288e01aedb29c05e521d4ff6c0e3aa65a35a94[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 17:38:11 2020 -0400
+
+    Update README.md
+
+[33mcommit 897c6ae32155f222b1543f6ddfe229dc7403e8ec[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 14:21:06 2020 -0400
+
+    Update README.md
+
+[33mcommit 53397afc8114d685d8cfaca7704c9bb5477c6309[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 14:18:58 2020 -0400
+
+    Update README.md
+
+[33mcommit 103a45854a23f0bdc38a3af2c144d321641b043a[m
+Merge: a766998 358fef5
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Thu Jun 4 14:17:17 2020 -0400
+
+    Bot tiene embeds ahora
+
+[33mcommit a76699892932b6fce3172e2c52d5b98797b8a081[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Thu Jun 4 14:00:17 2020 -0400
+
+    Bot actualizado con algunos embeds
+
+[33mcommit 358fef57aaa92783d2dbd22a5f522be19dd06a24[m[33m ([m[1;33mtag: 2.0.5[m[33m)[m
+Merge: 63ab294 c7bbb31
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 12:14:36 2020 -0400
+
+    Merge pull request #3 from Monoverde888/replit-readme
+    
+    Add run on repl.it badge to README
+
+[33mcommit c7bbb319650695e4b1d29b60b6b60a38e798d174[m
+Merge: 241630d 63ab294
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 12:14:24 2020 -0400
+
+    Merge branch 'master' into replit-readme
+
+[33mcommit 241630d0af4bd407089b534addc7145b4d9720f3[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Thu Jun 4 16:12:51 2020 +0000
+
+    Add run on repl.it badge to README
+    
+    This pull request adds a `Run on Repl.it` badge to the `README`. This will allow users to easily run this repository in their browser, without having to set up an environment. You can learn more about Repl.it [here](https://repl.it).
+
+[33mcommit 63ab2941bea409ef7f2de7f5f31ad9eaedd9b52d[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 12:12:44 2020 -0400
+
+    Update README.md
+
+[33mcommit f3b54bc82e25f2e4c018c5f524efb4d18cdfdb52[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Thu Jun 4 12:11:58 2020 -0400
+
+    Update README.md
+
+[33mcommit 62d5ce8e0936dc770a2adc66a4db95b75d173f59[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Wed Jun 3 17:36:21 2020 -0400
+
+            deleted:    _config.yml
+
+[33mcommit 280fa97130c3a1f885c0bff26cf9bef04fda7db9[m
+Merge: 1576225 180b02c
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Wed Jun 3 17:32:50 2020 -0400
+
+    Merge pull request #2 from Monoverde888/circleci-project-setup
+    
+    Add .circleci/config.yml
+
+[33mcommit 180b02c859a9eeaf7c30e34dfad6e998f1cac2ff[m[33m ([m[1;31morigin/circleci-project-setup[m[33m)[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Wed Jun 3 17:30:42 2020 -0400
+
+    Add .circleci/config.yml
+
+[33mcommit 1576225c1fa11d1a94051067e77a59efe7ed14f3[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Wed Jun 3 17:28:41 2020 -0400
+
+    Set theme jekyll-theme-cayman
+
+[33mcommit 5075816f4c980d3ac9250e92e0b5b9029c21f352[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Wed Jun 3 17:21:10 2020 -0400
+
+    Update README.md
+
+[33mcommit 84664eb5602d667c40b8d5e22d5a583bc7b7dadf[m
+Merge: dd3d84c bdbee43
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Wed Jun 3 17:18:52 2020 -0400
+
+    Merge branch 'master' of https://github.com/Monoverde888/ineptobot
+
+[33mcommit dd3d84c5dd50ab89178993c8d248354927d5afd0[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Wed Jun 3 17:16:46 2020 -0400
+
+    bot subido
+
+[33mcommit bdbee43a333093d9b26ff3375fe5c589d277b372[m
+Author: Monoverde888 <43417883+Monoverde888@users.noreply.github.com>
+Date:   Wed Jun 3 17:16:04 2020 -0400
+
+    Update README.md
+
+[33mcommit aa54f3001d04a4adb9cbef99bdc32ba475c32430[m
+Author: Monoverde <minecraftersov@gmail.com>
+Date:   Wed Jun 3 17:12:08 2020 -0400
+
+    inicializado
