@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Monoverde888/ineptobot#readme",
   "dependencies": {
+    "badge-maker": "^3.1.0",
     "discord.js": "^12.2.0",
     "megadb": "^3.4.0",
     "npm-check": "^5.9.2",
