@@ -4,7 +4,7 @@
   "description": "bot de discord",
   "main": "bot.js",
   "scripts": {
-    "test": "ping"
+    "test": "node bot.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "bot"
   ],
   "author": "Monoverde#8888",
-  "license": "UNLICENSED",
+  "license": "MPL-2.0",
   "bugs": {
     "url": "https://github.com/Monoverde888/ineptobot/issues"
   },
