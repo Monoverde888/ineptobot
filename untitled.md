@@ -11,7 +11,7 @@ Despues tienes que instalar git [aqui](https://git-scm.com/download/win)
 Cuando ya lo hayas instalado abre la linea de comandos y ve a la carpeta de tu bot asi
 
 ```bash
-cd Carpeta de tu bot
+cd carpeta del bot
 ```
 
 Cuando hayas hecho eso escribe
