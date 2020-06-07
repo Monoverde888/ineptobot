@@ -58,3 +58,5 @@ Si no te sirvio esto crea un [problema](https://github.com/Monoverde888/ineptobo
 
 Bueno adios espero que te haya servido esto
 
+
+
