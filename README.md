@@ -8,7 +8,6 @@ Si necesitas ayuda con el bot entra a este servidor de discord
 
 O si quieres hostear el bot mira la [guia](https://ineptobot.gitbook.io/ineptobot/como-tener-al-bot-en-pc)
 
-
 [![Discord Banner 2](https://discordapp.com/api/guilds/715708045560119297/widget.png?style=banner2)](https://discord.gg/XvW9vaZ)
 
 [![Run on Repl.it](https://repl.it/badge/github/Monoverde888/ineptobot)](https://repl.it/github/Monoverde888/ineptobot)
