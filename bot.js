@@ -17,7 +17,7 @@ app.get("/", (request, response) => {
 app.listen(`8080`);
 
 setInterval(() => {
-  http.get(`0.0.0.0`);
+  http.get(`192.168.0.12`);
 }, 280000);
 
 //DESDE AQUI EMPIEZA A ESCRIBIR EL CODIGO PARA SU BOT
@@ -110,4 +110,3 @@ client.login(client.config.token) //agregamos las promesas de la propiedad login
   console.error("Error al iniciar sesión: " + err);
 
 });
-
