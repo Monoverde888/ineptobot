@@ -17,7 +17,7 @@ app.get("/", (request, response) => {
 app.listen(`8080`);
 
 setInterval(() => {
-  http.get(`http://www.inepto.pagekite.me/`);
+  http.get(`localhost`);
 }, 280000);
 
 //DESDE AQUI EMPIEZA A ESCRIBIR EL CODIGO PARA SU BOT

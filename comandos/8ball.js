@@ -3,7 +3,7 @@
 // 04/06/2020
 const Discord = require ("discord.js")
 module.exports = (client, message, args) => {
-var rpts = ["que?" , "yo creo que si" , "no" , "mas o menos" , "si" , "no te entendi" , "yo creo que no" , "no soy tan inteligente" , "ok" , ];
+var rpts = ["yo creo que si" , "no" , "mas o menos" , "si" , "no te entendi" , "yo creo que no" , "no soy tan inteligente" , "ok" , ];
 
     let pregunt = args.join(' ')
     if (!pregunt) return message.channel.send(":zcsrechazo: no has escrito ninguna pregunta porfavor, escribe una.")//mensaje de error

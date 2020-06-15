@@ -29,7 +29,7 @@ Despues entra a la carpeta que se creo y ve a ella con la linea de comandos
 Escribe
 
 ```bash
-npm ci
+npm install
 ```
 
 Despues crea y archivo llamado config.js y pega esto
@@ -59,4 +59,3 @@ node bot.js
 Si no te sirvio esto crea un [problema](https://github.com/Monoverde888/ineptobot/issues/new) en la pagina del bot.
 
 Bueno adios espero que te haya servido esto
-
