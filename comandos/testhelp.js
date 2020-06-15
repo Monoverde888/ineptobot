@@ -1,10 +1,10 @@
-const Discord = require ("discord.js")
-module.exports = (client, message, args) => {  
-const embed1 = new Discord.MessageEmbed()
-.setColor('#ff7300')    
-.setTitle('Comandos')
-.setDescription("Hola!")  
-.addField("Este bot esta en p")
-        .addField("field")
-        message.channel.send({embed:embed1})
+const Discord = require('discord.js')
+module.exports = (client, message, args) => {
+let embed = new Discord.MessageEmbed()
+.setAuthor("Hola!")
+.setDescription("Este bot esta en progreso todavia pero los comandos son:")
+.setFooter("footer")
+.setColor("RANDOM")
+message.channel.send(embed)
+//RECORDATORIO, SIEMPRE HACER EL EMBED ANTES DEL MESSAGE.CHANNEL.SEND, O SI NO NO ENVÍA NADA
 }

@@ -6,7 +6,7 @@ module.exports = (client, message, args) => {
 var rpts = ["yo creo que si" , "no" , "mas o menos" , "si" , "no te entendi" , "yo creo que no" , "no soy tan inteligente" , "ok" , ];
 
     let pregunt = args.join(' ')
-    if (!pregunt) return message.channel.send(":zcsrechazo: no has escrito ninguna pregunta porfavor, escribe una.")//mensaje de error
+    if (!pregunt) return message.channel.send(" <:zcsrechazo:712752306830967357> no has escrito ninguna pregunta porfavor, escribe una.")//mensaje de error
     let respuestarandom = rpts[Math.floor(Math.random() * rpts.length)]
     const embed1 = new Discord.MessageEmbed()
     .setTitle('Comando | 8ball')
