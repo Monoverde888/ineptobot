@@ -26,6 +26,8 @@
     "badge-maker": "^3.1.0",
     "discord.js": "^12.2.0",
     "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
     "megadb": "^3.4.0",
     "npm-check": "^5.9.2",
     "npm-check-updates": "^7.0.1"
