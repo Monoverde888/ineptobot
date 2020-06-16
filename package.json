@@ -5,6 +5,7 @@
   "main": "bot.js",
   "scripts": {
     "test": "node bot.js"
+
     "start": "node bot.js",
   },
   "repository": {
