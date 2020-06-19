@@ -1,3 +1,7 @@
+---
+description: Guiá de como tener a IneptoBot en tu computador
+---
+
 # Como tener al bot en pc
 
 ## Como tener al bot en pc
