@@ -1,9 +1,8 @@
 # Inicio
+
 [![Version](https://img.shields.io/github/v/release/Monoverde888/ineptobot?include_prereleases&label=Version&style=for-the-badge)](https://github.com/Monoverde888/ineptobot/releases)
 
 Bot de discord.js v12 en español
-
-
 
 Si quieres hostear el bot mira la [guia](https://ineptobot.gitbook.io/ineptobot/como-tener-al-bot-en-pc)
 
