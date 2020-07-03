@@ -1,4 +1,4 @@
 module.exports = (client, message, args) => { 
-    message.channel.send("Unete a jugarhttps://discord.gg/SGaURs6"); 
+    message.channel.send("Unete a jugar https://discord.gg/SGaURs6"); 
   
   }
