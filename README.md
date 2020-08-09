@@ -1,3 +1,9 @@
+# Este bot ya no sera actualizado
+
+
+
+-----
+
 # Inicio
 
 [![Version](https://img.shields.io/github/v/release/Monoverde888/ineptobot?include_prereleases&label=Version&style=for-the-badge)](https://github.com/Monoverde888/ineptobot/releases)
