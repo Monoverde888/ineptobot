@@ -24,7 +24,7 @@
   "homepage": "https://github.com/Monoverde888/ineptobot#readme",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
-    "badge-maker": "^3.1.0",
+    "badge-maker": "^3.3.0",
     "discord.js": "^12.4.1",
     "express": "^4.17.1",
     "ffmpeg": "0.0.4",
