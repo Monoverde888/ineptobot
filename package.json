@@ -31,7 +31,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "megadb": "^3.4.0",
     "npm-check": "^5.9.2",
-    "npm-check-updates": "^10.2.1",
+    "npm-check-updates": "^10.2.2",
     "ytdl-core": "^4.0.6"
   }
 }
